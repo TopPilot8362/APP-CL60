@@ -5,3 +5,4 @@ The random failure plugin is still being developed. This project could take mont
 | Date | Release | Version |
 | -------- | -------- | -------- |
 | 06.04.26 | Start on Application | V1 |
+| 16.04.26 | initial GUI released | 1.0.1 |
